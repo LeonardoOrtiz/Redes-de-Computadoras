@@ -1,2 +1,2 @@
 # Redes-de-Computadoras
-Trabajos hechos en la materia Redes de Computadoras FC
+Trabajos hechos en la materia: Redes de Computadoras-FC
